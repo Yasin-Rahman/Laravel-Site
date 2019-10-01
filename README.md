@@ -4,11 +4,17 @@ A website made with laravel
 ## Requirements
 
 PHP >= 5.5.9
+
 OpenSSL PHP Extension
+
 Mbstring PHP Extension
+
 Tokenizer PHP Extension
+
 SQL server(for example MySQL)
+
 Composer
+
 Node JS
 
 ## Running instruction
